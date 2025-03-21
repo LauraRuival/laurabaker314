@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LauraRuival
 - 👀 I’m interested in iOS Development
 - 🌱 I’m currently learning Swift
-- 💞️ I’m looking to collaborate on mobile development projects
+- 💞️ I’m not looking to collaborate on anything right now. Too busy!
 - 📫 How to reach me ...
 
 <!---
