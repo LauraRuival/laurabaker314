@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LauraRuival
-- 👀 I’m interested in iOS App Development, Web Development, AI and art
+- 👀 I’m interested in iOS App Development, Web Development, Robotics, AI and art
 - 🌱 I’m currently learning Swift
 - 💞️ I’m not looking to collaborate on anything right now. Too busy!
 - 📫 How to reach me ...
